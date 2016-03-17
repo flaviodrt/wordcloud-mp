@@ -1,5 +1,4 @@
 #coding: utf-8
-import re
 from wordcloud import WordCloud, STOPWORDS
 
 depoimento = open('depoimento_lula.txt', 'r')
